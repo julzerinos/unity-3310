@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | 3310</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" style="width: 840px; height: 480px; background: #231F20"></canvas>
+    <script src="Build/v0.02.loader.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/v0.02.data",
+        frameworkUrl: "Build/v0.02.framework.js",
+        codeUrl: "Build/v0.02.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Julian's",
+        productName: "3310",
+        productVersion: "0.01",
+      });
+    </script>
+  </body>
+</html>
