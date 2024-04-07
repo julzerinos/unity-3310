@@ -1,4 +1,4 @@
-### Thrity-free ten
+# Thrity-free ten
 
 The Future Is Now... and the Nokia 3310 is obsolete. Nobody expected this day to come, but as the final phone from this flagship line had been cast into oblivion, it was finally time to go. This Nokia may now rest in the Hall of Fame.
 
