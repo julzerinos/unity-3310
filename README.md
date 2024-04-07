@@ -1,6 +1,6 @@
 # Thrity-free ten
 
-The Future Is Now... and the Nokia 3310 is obsolete. Nobody expected this day to come, but as the final phone from this flagship line had been cast into oblivion, it was finally time to go. This Nokia may now rest in the Hall of Fame.
+The future is now... and the Nokia 3310 is obsolete. Nobody expected this day to come, but as the final phone from this flagship line had been cast into oblivion, it was finally time to go. This Nokia may now rest in the Hall of Fame.
 
 A platformer game made in Unity 2020.1.5f1 for the [Nokia Game Jam 3](https://itch.io/jam/nokiajam3).
 
